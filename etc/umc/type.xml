@@ -45,7 +45,7 @@
         <type id="image" model="Umc\Base\Model\Core\Attribute\Type\Image" sort="60" group="file" translate="label">
             <label>Image</label>
         </type>
-        <type id="int" model="Umc\Base\Model\Core\Attribute\Type\Int" sort="70" group="text" translate="label">
+        <type id="int" model="Umc\Base\Model\Core\Attribute\Type\Integer" sort="70" group="text" translate="label">
             <label>Integer</label>
         </type>
         <type id="multiselect" model="Umc\Base\Model\Core\Attribute\Type\Multiselect" sort="80" group="multiselect" translate="label">

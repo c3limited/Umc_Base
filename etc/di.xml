@@ -876,7 +876,7 @@
             </argument>
         </arguments>
     </type>
-    <type name="Umc\Base\Model\Core\Attribute\Type\Int">
+    <type name="Umc\Base\Model\Core\Attribute\Type\Integer">
         <arguments>
             <argument name="data" xsi:type="array">
                 <item name="admin_column_type" xsi:type="string">text</item>
